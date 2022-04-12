@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 import FuncComp from './Component/FuncComp';
 import { useState } from 'react';
